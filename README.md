@@ -1,4 +1,4 @@
-# Countried DataBase
+# Countries DataBase
 #### JQuery - AJAX
 
 A one-page webpage that presents various countries and their basic information.  
