@@ -1,0 +1,85 @@
+h1 {
+    text-align: center;
+    font-family: 'IM Fell English SC', serif;
+    font-size: 400%;
+}
+
+#font {
+    font-weight: bold;
+}
+
+.results {
+    width: 100%;
+    height: 100vh;
+    float: left;
+}
+
+.country {
+    min-width: 300px;
+    height: 250px;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    border: 1px solid black;
+    overflow-wrap: break-word;
+}
+
+.fullSize {
+    width: 300px;
+}
+
+#countryimg {
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+#showAllbtn {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#search {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input-group {
+    width: 429px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#getCountries {
+    margin-left: 5px;
+}
+
+::-webkit-input-placeholder {
+    text-align: center;
+}
+
+:-moz-placeholder {
+    /* Firefox 18- */
+    text-align: center;
+}
+
+::-moz-placeholder {
+    /* Firefox 19+ */
+    text-align: center;
+}
+
+:-ms-input-placeholder {
+    text-align: center;
+}
+
+.countryInfo {
+    display: block;
+}
